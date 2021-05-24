@@ -3,7 +3,7 @@
 site about photography  company that display some information about it
 
 
-#Project aim
+# Project aim
 
 1-apply on react library 
 
