@@ -15,3 +15,6 @@ site about photography  company that display some information about it
 
 https://capture-company.netlify.app/
 
+
+
+![Alt text](./3.png)
